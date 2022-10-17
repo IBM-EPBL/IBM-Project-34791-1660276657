@@ -1,1 +1,1 @@
-Team Member : Tallapaneni Thanmai Chowdary
+Tallapaneni Thanmai Chowdary
