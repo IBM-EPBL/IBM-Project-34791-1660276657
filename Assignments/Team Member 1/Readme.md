@@ -1,1 +1,0 @@
-Tallapaneni Thanmai Chowdary
