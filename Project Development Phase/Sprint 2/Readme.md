@@ -4,8 +4,8 @@ Sprint 2:
 3. As a developer, built the model in IBM Cloud.
 4. As a developer, integrated the developed system with the IBM Cloud.
 
-Description:
-app.py - Implementation of project done in Local Server.
+Description:<br>
+app.py - Implementation of project done in Local Server. <br>
 IBMapp.py - Implementation of project done by integrating IBM Cloud.
 
 Project Structure: <br>
